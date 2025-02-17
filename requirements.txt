@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+streamlit
+requests
+transformers
+sentence-transformers
+faiss-cpu
+ultralytics
+opencv-python
+numpy
+matplotlib
+torch
